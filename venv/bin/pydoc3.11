@@ -1,5 +1,0 @@
-#!/Users/himas1/Documents/Projects/rnn-imdb/venv/bin/python3.11
-
-import pydoc
-if __name__ == '__main__':
-    pydoc.cli()
